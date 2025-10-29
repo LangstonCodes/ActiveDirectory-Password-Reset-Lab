@@ -16,9 +16,12 @@ Practice resetting passwords and managing account lockouts in Active Directory.
 - Active Directory Users and Computers (ADUC)
 
 ## 🪜 Steps Performed
-1. Located a locked or expired user account.
-2. Reset the password using **ADUC**.
-3. Verified the user could log back in successfully.
+1. Located a locked or expired user account. <img width="1680" height="1050" alt="Step-1-reset-password" src="https://github.com/user-attachments/assets/f7485155-48c5-4a52-8d18-68fb9a710481" />
+
+2. Reset the password using **ADUC**. <img width="1680" height="1050" alt="Step-2-reset-password" src="https://github.com/user-attachments/assets/6fcc0bb8-b4de-4883-afd9-b7ca08802e95" />
+
+3. Verified the user could log back in successfully.<img width="1680" height="1050" alt="Setp-3-confirmation" src="https://github.com/user-attachments/assets/89f84bc8-a7af-4c03-90a9-00ab25a6b889" />
+ 
 4. Reviewed password policy settings in Group Policy Management.
 
 ## ✅ Outcome
