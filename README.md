@@ -1,4 +1,6 @@
 # Active-Directory-Password-Reset-Lab
+Watch me build this lab here! https://www.loom.com/share/1e12ac2f17a74841933338e27eb54efd
+
 Practice resetting passwords and managing account lockouts in Active Directory.
 # 🔐 Active Directory - Password Reset Lab
 
